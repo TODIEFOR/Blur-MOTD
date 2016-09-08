@@ -22,6 +22,8 @@ blurMotd.blue = Color(52, 152, 219,55)
 blurMotd.white = Color(255,255,255,5)
 blurMotd.red = Color(231, 76, 60,55)
 
+blurMotd.ChatCommand = "!motd"
+
 blurMotd.TimeWait  = 10 // This is the amount of seconds the person has to wait before being able to close the panel.
 blurMotd.FadeTime = 1 // Time it takes to fade out the panel
 
