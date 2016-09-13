@@ -1,7 +1,6 @@
 #Blur MOTD
 
-Blur MOTD is a sleek motd addon was developed intended for great practicality and asthetics for server owners who are on a budget or wish for a free option for a MOTD.
-
+Blur MOTD is a sleek motd addon that was developed  for server owners looking for a free option for a sleek MOTD
 ## Installation
 
 Place the "blurMotd" folder in garrysmod/addons
