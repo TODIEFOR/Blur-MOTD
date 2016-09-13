@@ -4,12 +4,12 @@ Blur MOTD is a sleek motd addon that was developed  for server owners looking fo
 ## Installation
 
 Place the "blurMotd" folder in garrysmod/addons
-Optional: Place the forcemotd.lua file in ulx/lua/ulx/modules/sh
+Optional: Drop the ulx folder in your addons to install the custom chat command 
 
 ## Usage
 
 By default the motd can be opened with "!motd" 
-Use "!forcemotd <player>" to force open the motd on a specified player
+Use "!forcemotd <player>" to force open the motd on a specified player (Admin Only by default, edit the permissions in the ULX menu)
 
 ## Credits
 
