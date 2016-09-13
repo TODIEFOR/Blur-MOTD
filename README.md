@@ -9,7 +9,7 @@ Optional: Drop the ulx folder in your addons to install the custom chat command
 ## Usage
 
 By default the motd can be opened with "!motd" 
-Use "!forcemotd <player>" to force open the motd on a specified player (Admin Only by default, edit the permissions in the ULX menu)
+use  "!forcemotd <player>" to force open the motd on a specified player (Admin Only by default, edit the permissions in the ULX menu)
 
 ## Credits
 
