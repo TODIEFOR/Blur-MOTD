@@ -10,3 +10,8 @@ hook.Add( "PlayerSay", "motdChatCommand", function( ply, text, public )
 		return ""
 	end
 end )
+
+hook.Add("PlayerInitialSpawn","blurMotdSpawn", function(ply)
+	net.Start("OpenMotd")
+	net.Send(ply)
+end)
